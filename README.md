@@ -38,11 +38,11 @@ Item_Outlet_Sales – Target variable (only in train set)
 
 # Project Workflow
 
- **Exploratory Data Analysis (EDA)**
+ **1.Exploratory Data Analysis (EDA)**
 
 Distribution plots, missing value analysis, categorical vs. numerical comparisons.
 
-**Data Preprocessing**
+**2.Data Preprocessing**
 
 Handling missing values (Item_Weight, Outlet_Size)
 
@@ -50,7 +50,7 @@ Encoding categorical features (Label Encoding / One-Hot Encoding)
 
 Feature engineering (e.g., Years_Since_Establishment, cleaning Item_Fat_Content)
 
-**Model Building**
+**3.Model Building**
 
 Linear Regression
 
@@ -60,13 +60,13 @@ Random Forest Regressor
 
 XGBoost Regressor
 
-**Model Evaluation**
+**4.Model Evaluation**
 
 Metrics: RMSE, MAE, R² Score
 
 Hyperparameter tuning (GridSearchCV, RandomizedSearchCV)
 
-**Final Predictions**
+**5.Final Predictions**
 
 Generate BigMart_Submission.csv for test dataset.
 
