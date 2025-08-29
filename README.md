@@ -5,7 +5,8 @@ This project focuses on predicting the sales of products across different Big Ma
 
 # Dataset
 
-Source: Kaggle – Big Mart Sales Prediction Dataset
+Source: [Kaggle – Big Mart Sales Prediction Dataset](https://www.kaggle.com/datasets/brijbhushannanda1979/bigmart-sales-data)
+
 
 # Files:
 
